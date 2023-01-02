@@ -1,5 +1,5 @@
 # Thats me
-Hi, I´m He1senberg31415 and I´m a professional binge watcher and software engineer. I love coding more than my girlfriend I don´t have and create ugly designs. Currently I´m working on a ecommerce system for a german gold and silver trading company. Currently not sure yet if I will make it open source.
+Hi, I´m He1senberg31415 and I´m a professional binge watcher and software engineer. I love coding more than my girlfriend I don´t have and create ugly designs. Currently I´m working on a ecommerce system for a german gold and silver trading company.
 
 ## Programming languages
 - Go
